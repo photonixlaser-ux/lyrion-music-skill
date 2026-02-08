@@ -3,7 +3,7 @@
 # Lyrion Music Server Control Script
 # JSON-RPC API Client
 
-HOST="${LYRION_HOST:-192.168.20.40}"
+HOST="${LYRION_HOST:-192.168.20.10}"
 PORT="${LYRION_PORT:-9000}"
 URL="http://${HOST}:${PORT}/jsonrpc.js"
 
